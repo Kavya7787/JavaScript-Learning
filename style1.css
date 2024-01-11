@@ -1,0 +1,30 @@
+.yellow {
+    background-color: yellow;
+    color: white;
+    border: 2px solid black;
+    text-align: center;  
+}
+.Name {
+    margin-top: 10%;
+    color:white;
+    background-color: blue;
+    border: 2px solid black;
+}
+.food {
+    color:white;
+    background-color: aqua;
+    border: 2px solid black;
+}
+.world {
+    color:white;
+    background-color: brown;
+    border: 2px solid black;
+    margin-top:5%;
+    text-align: left;
+}
+.Add {
+    background-color: yellowgreen;
+}
+.Buy {
+    background-color: orange;
+}
